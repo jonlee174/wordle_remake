@@ -4,7 +4,7 @@ pygame.init()
 WIDTH, HEIGHT = 800, 700
 WIN = pygame.display.set_mode([WIDTH, HEIGHT])
 user_text = ""
-correct = "PENIS"
+correct = ""
 guesses = [user_text]
 current_line = 0
 first = True
